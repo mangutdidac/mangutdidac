@@ -69,9 +69,9 @@ modelado predictivo y evaluación de modelos, así como en la construcción de d
 <h2>📫 Contacto</h2>
 
 <p>
-LinkedIn: https://www.linkedin.com/in/dídac-mangut-soria/
-Correo electrónico: mangutdidac@gmail.com
-Número de teléfono: (+34)611443771
+LinkedIn: https://www.linkedin.com/in/dídac-mangut-soria/ <br>
+Correo electrónico: mangutdidac@gmail.com<br>
+Número de teléfono: (+34)611443771<br>
 </p>
 
 <hr>
