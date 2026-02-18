@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Didac Mangut 👋</h1>
+<h1 align="center">Hola, soy Dídac Mangut 👋</h1>
 
 <h3 align="center">Data & BI Specialist | ETL | Machine Learning | Azure</h3>
 
